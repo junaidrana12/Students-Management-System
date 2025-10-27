@@ -35,7 +35,5 @@ Here’s a clean and professional **README content** for your Student Management
 ## Author
 
 **Junaid Rana** – Java Developer  
-Focused on clean code, practical solutions, and robust error handling.
-
-
-Let me know if you want to add a section for future improvements or deployment instructions.
+Gmail: junaidrana1282005@gmail.com
+Linkdin :- https://www.linkedin.com/in/junaid-rana-32118526a/
